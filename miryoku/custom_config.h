@@ -16,7 +16,7 @@
 // Based on MIRYOKU_ALTERNATIVES_BASE_QWERTY in miryoku/miryoku_layer_alternatives.h.
 // 
 // Previously, I just defined the QWERTY layer:
-// #define MIRYOKU_ALPHAS_QWERTY
+#define MIRYOKU_ALPHAS_QWERTY
 //
 // Mod-Tap: U_MT(MOD, TAP) 
 // Layer-Tap: U_LT(LAYER, TAP)
